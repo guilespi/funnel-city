@@ -1,0 +1,1 @@
+([:dependencies [[org.clojure/clojure "1.4.0"] [leiningen "2.0.0-preview10"] [ritz/ritz-swank "0.5.0" :exclusions [org.clojure/clojure]] [clj-stacktrace "0.2.4"] [org.clojure/data.json "0.2.1"] [org.clojure/tools.cli "0.2.2"] [incanter "1.3.0-SNAPSHOT"]]])
